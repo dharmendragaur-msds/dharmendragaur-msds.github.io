@@ -1,5 +1,11 @@
 # Dharmendra Gaur
 
+### MS Data Science Student
+
+**Machine Learning | Data Analytics | Python | SQL**
+
+Welcome to my data science portfolio. This website highlights my projects, technical skills, and learning journey throughout my MS in Data Science.
+
 ## About
 
 Hello! My name is Dharmendra Gaur, and I am currently pursuing a Master of Science in Data Science. I enjoy learning how data can help solve real business problems and support better decision-making.
@@ -19,7 +25,10 @@ During my MS program, I have worked on projects involving data analysis, machine
 
 ## Projects
 
-Projects will be added here throughout this course.
+### Employee Attrition Prediction
+A machine learning project that predicts employee attrition using the IBM HR Analytics dataset. The project includes data cleaning, exploratory data analysis, predictive modeling, and business recommendations.
+
+More projects will be added as I complete my MS Data Science program.
 
 - Employee Attrition Prediction (In Progress)
 - Future Data Science Projects
