@@ -2,9 +2,11 @@
 
 ### MS Data Science Student
 
-**Machine Learning | Data Analytics | Python | SQL**
+Machine Learning | Data Analytics | Python | SQL
 
 Welcome to my data science portfolio. This website highlights my projects, technical skills, and learning journey throughout my MS in Data Science.
+
+**GitHub:** https://github.com/dharmendragaur-msds
 
 ## About
 
@@ -36,5 +38,5 @@ More projects will be added as I complete my MS Data Science program.
 ## Contact
 
 - GitHub: https://github.com/dharmendragaur-msds
-- LinkedIn: (To be added)
-- Email: (To be added)
+- LinkedIn: https://www.linkedin.com/in/dharmendragaur/
+- Email: dharmendra.gaur@gmail.com
