@@ -30,9 +30,10 @@ During my MS program, I have worked on projects involving data analysis, machine
 ### Employee Attrition Prediction
 A machine learning project that predicts employee attrition using the IBM HR Analytics dataset. The project includes data cleaning, exploratory data analysis, predictive modeling, and business recommendations.
 
+**Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+
 More projects will be added as I complete my MS Data Science program.
 
-- Employee Attrition Prediction (In Progress)
 - Future Data Science Projects
 
 ## Contact
